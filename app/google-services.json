@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884729313329",
+    "project_id": "mplayer-8cb7e",
+    "storage_bucket": "mplayer-8cb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884729313329:android:07bcb71e5ea54f8e047d10",
+        "android_client_info": {
+          "package_name": "com.furkandursun.musicplayerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884729313329-29e8f4dojej1o5jd072p2j3hu1k0vbfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-hpSCvzvGXOej_VWX5Qd_WshEwfuwhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884729313329-29e8f4dojej1o5jd072p2j3hu1k0vbfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
